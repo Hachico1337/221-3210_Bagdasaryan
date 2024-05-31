@@ -1,6 +1,0 @@
-<RCC>
-    <qresource prefix="/icons">
-        <file>lock.png</file>
-        <file>copy.png</file>
-    </qresource>
-</RCC>
